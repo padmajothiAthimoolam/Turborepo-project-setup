@@ -9,7 +9,7 @@ Run the following command:
 ```sh
 npx create-turbo@latest
 ```
-
+Add packages in specific workspace
 ```sh
 pnpm --filter web add -D tailwindcss postcss autoprefixer
 ```
